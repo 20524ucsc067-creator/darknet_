@@ -1,0 +1,13 @@
+<html>
+<body>
+<h1>Welcome</h1>
+<p>My first task</p>
+
+<form>
+Username: <input type="text" placeholder="Username"><br><br>
+Password: <input type="password" placeholder="Password"><br><br>
+<button>Login</button>
+</form>
+
+</body>
+</html>
